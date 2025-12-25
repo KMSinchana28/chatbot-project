@@ -1,45 +1,52 @@
 🤖 React Chatbot Application
 
-This is a simple yet interactive chatbot application built using React + Vite.
-The project demonstrates real-time user–bot interaction using rule-based responses, focusing on clean UI, component-based design, and React state management.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+React Chatbot Application is a simple and interactive chatbot built using React and Vite. It demonstrates real-time user–bot interaction through rule-based responses. The project focuses on clean UI design, component-based architecture, and efficient React state management.
+
+---
+
 📌 Features
 
-  💬 Real-time chat interface
-  🤖 Rule-based chatbot responses
-  ⚡ Fast & lightweight Vite setup
-  🎨 Clean UI with user & robot avatars
-  🧩 Modular React components
-  🔁 Dynamic message rendering
-  🚫 No external chatbot libraries used
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧠Tech Stack
+- 💬 Real-time chat interface
+- 🤖 Rule-based chatbot responses
+- ⚡ Fast and lightweight Vite setup
+- 🎨 Clean UI with user and robot avatars
+- 🧩 Modular React components
+- 🔁 Dynamic message rendering
+- 🚫 No external chatbot libraries used
 
-  Frontend
-     React
-     Vite
-     JavaScript (ES6+)
-     CSS
-     
+---
+
+🧠 Tech Stack
+
+Frontend  
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- CSS  
+
+---
+
 🧩 Core Concepts
 
-    React Hooks (useState)
-    Props & state lifting
-    Component-based architecture
-    Event handling
-    Conditional rendering
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+- React Hooks (useState)
+- Props and state lifting
+- Component-based architecture
+- Event handling
+- Conditional rendering
+
+---
+
 🧠 How It Works
 
-🔹 User Interaction Flow
-    User enters a message in the input box
-    Message is stored in React state
-    A rule-based function generates a bot response
-    Both user and bot messages are appended to the chat
-    UI updates instantly
+User Interaction Flow  
+- User enters a message in the input box  
+- Message is stored in React state  
+- A rule-based function generates the chatbot response  
+- User and bot messages are appended to the chat  
+- UI updates instantly  
 
-🔹 Chatbot Logic
-    Detects keywords like hello, date, time
-    Responds with predefined answers
-    Displays fallback response for unknown queries
-    Implemented locally (no imports / APIs)
+Chatbot Logic  
+- Detects keywords such as hello, date, and time  
+- Responds with predefined messages  
+- Displays fallback response for unknown inputs  
+- Implemented locally without imports or external APIs  
